@@ -6,7 +6,7 @@ I originally started out in 3D, but somewhere between creating art and experimen
 
 ### [My portfolio](https://emmelinlarina.github.io/Portfolio-2/) 🌟
 
-### Things I work with:
+## Things I work with:
 
 **Frontend:** HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS
 
@@ -25,3 +25,11 @@ I like figuring things out as I go, experimenting with different approaches and 
 I'm usually working on one of my 3D projects, playing video games, or getting distracted by a new creative idea.
 
 I'm a big fan of Dark Souls, Resident Evil, and all kinds of dark and gloomy fictional worlds. I also love a good D&D campaign! I used to play the drums, and after quite a few years away from it, I'm thinking about picking up the drumsticks again! 
+
+## 📬 Get in touch 
+
+Feel free to reach out if you'd like to connect, collaborate, or just say hi!
+
+- Email: emmelin.tvedt@gmail.com
+- LinkedIn: [Connect with me](www.linkedin.com/in/emmelinlarina)
+- Portfolio: [Check out my work](https://emmelinlarina.github.io/Portfolio-2/)
